@@ -18,5 +18,9 @@
   "homepage": "https://github.com/cickpoo0121/testDeploy#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.18.3",
+    "npm": "6.14.6"
   }
 }
